@@ -4,6 +4,11 @@ A robust and versatile Book Recommendation System that provides personalized boo
 
 ---
 
+Data Set:
+1) https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
+2) https://www.kaggle.com/datasets/mandan/amazon-vs-flipkart-book-prices
+
+
 ## Features
 
 ### 1. Recommendation Models
